@@ -6,7 +6,7 @@ module.exports = {
 	},
 	urls: [
 		"https://maineventsoftware.com/",
-		"https://networkninja.com/",
+		"https://www.networkninja.com/",
 		"https://stoptxeviction.org/",
 		"https://www.collaboratesoftware.com/",
 		"https://www.legalserver.org/",
