@@ -2,7 +2,7 @@ module.exports = {
 	name: "Network Ninja", // optional, falls back to object key
 	description: "Network Ninja",
 	options: {
-		frequency: 60 * 23, // (in minutes), 23 hours
+		frequency: 60, // (in minutes), 23 hours
 	},
 	urls: [
 		"https://maineventsoftware.com/",
