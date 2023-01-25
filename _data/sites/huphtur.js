@@ -2,7 +2,7 @@ module.exports = {
   name: 'huphtur.nl',
   description: 'huphtur.nl',
   options: {
-    frequency: 60 * 23, // 23 hours
+    frequency: 60 * 23 * 7, // almost weekly
     freshChrome: 'site',
   },
   options: {
@@ -13,6 +13,28 @@ module.exports = {
     'https://huphtur.nl/',
     'https://huphtur.nl/about/',
     'https://huphtur.nl/archives/',
+    // Posts
+    'https://huphtur.nl/time-to-ditch-the-cloth-mask-and-get-a-couple-kn94-masks/',
+    'https://huphtur.nl/2020-in-13-seconds/',
+    'https://huphtur.nl/3d-printed-thru-axle-fork-mount-adapter/',
+    'https://huphtur.nl/4-fun-phobias/',
+    'https://huphtur.nl/my-top-5-90s-hip-hop-tracks/',
+    'https://huphtur.nl/introducing-skate-or-bike/',
+    'https://huphtur.nl/should-dopers-be-banned-from-strava/',
+    'https://huphtur.nl/my-rdio-replacements/',
+    'https://huphtur.nl/aws-cli-gulp-awspublish-for-dummies/',
+    'https://huphtur.nl/wheres-the-fun-in-skateboarding/',
+    'https://huphtur.nl/i-have-never/',
+    'https://huphtur.nl/selected-ambient-works/',
+    'https://huphtur.nl/flat-ui-color-palette-for-sketch/',
+    'https://huphtur.nl/spy-belgian-waffle-ride-tips/',
+    'https://huphtur.nl/routine-bas/',
+    'https://huphtur.nl/theres-a-strava-for-everything/',
+    'https://huphtur.nl/life/',
+    'https://huphtur.nl/5-things-i-do-not-miss-about-san-francisco/',
+    'https://huphtur.nl/one-of-my-first-tweets/',
+    'https://huphtur.nl/netsuites-ridiculous-security-questions/',
+    'https://huphtur.nl/sand-kites/',
   ],
   skip: false,
 };
