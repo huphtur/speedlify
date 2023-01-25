@@ -1,6 +1,6 @@
 module.exports = {
   name: 'huphtur.nl',
-  description: 'Personal website',
+  description: 'huphtur.nl',
   options: {
     frequency: 60 * 23, // 23 hours
     freshChrome: 'site',
