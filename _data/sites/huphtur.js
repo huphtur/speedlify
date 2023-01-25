@@ -13,7 +13,6 @@ module.exports = {
     'https://huphtur.nl/',
     'https://huphtur.nl/about/',
     'https://huphtur.nl/archives/',
-    // Posts
     'https://huphtur.nl/time-to-ditch-the-cloth-mask-and-get-a-couple-kn94-masks/',
     'https://huphtur.nl/2020-in-13-seconds/',
     'https://huphtur.nl/3d-printed-thru-axle-fork-mount-adapter/',
